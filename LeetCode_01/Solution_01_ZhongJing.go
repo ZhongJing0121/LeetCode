@@ -15,7 +15,6 @@ func twoSum(nums []int, target int) []int {
 			m[num] = index
 		}
 	}
-
 	return nil
 }
 
