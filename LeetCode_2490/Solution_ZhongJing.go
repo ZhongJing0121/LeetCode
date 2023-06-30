@@ -2,10 +2,8 @@ package main
 
 import "strings"
 
-/**
-作者：仲景
-日期：2023-06-30
-*/
+// 作者：仲景
+// 日期：2023-06-30
 func isCircularSentence(sentence string) bool {
 	sLen := len(sentence)
 	if sentence[0] != sentence[sLen-1] {
