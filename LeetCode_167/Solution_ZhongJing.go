@@ -1,4 +1,4 @@
-package main
+package LeetCode_167
 
 // 题目：167.两数之和 II - 输入有序数组
 // 日期：2023-07-08
