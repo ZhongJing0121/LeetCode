@@ -11,4 +11,4 @@
 
 ## 1-100
 
-[01.两数之和](./LeetCode_01/LeetCode01.md)
+[01.两数之和](./LeetCode_01/LC-1.两数之和.md)
