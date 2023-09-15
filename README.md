@@ -18,7 +18,7 @@
 | 3   | 无重复字符的最长子串       | 中等 | Java                  | [无重复字符的最长子串](./LeetCode_03)         |
 | 9   | 回文数              | 简单 | Java、Go、Kotlin、Python | [回文数](./LeetCode_09       )         |
 | 13  | 罗马数字转整数          | 简单 | Java、Go、Kotlin、Python | [罗马数字转整数](./LeetCode_13    )        |
-| 14  | 最长公共前缀   简单      |    | Java、Go、Kotlin、Python | [最长公共前缀](./LeetCode_14      )       |
+| 14  | 最长公共前缀           | 简单 | Java、Go、Kotlin、Python | [最长公共前缀](./LeetCode_14      )       |
 | 15  | 三数之和             | 中等 | Go                    | [三数之和](./LeetCode_15         )      |
 | 16  | 最接近的三数之和         | 中等 | Go                    | [最接近的三数之和](./LeetCode_16      )     |
 | 18  | 四数之和             | 中等 | Go                    | [四数之和](./LeetCode_18         )      |
