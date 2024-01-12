@@ -16,7 +16,7 @@ public class Solution_ZhongJing01 {
         // cost1购买的数量
         var count = 0;
         // 答案
-        var res = 0;
+        var res = 0L;
         // c1买count个之后，c2能卖多少个，c2可以不买，所以方案+1
         while (count * cost1 <= total) {
             res += (total - cost1 * count) / cost2 + 1;
