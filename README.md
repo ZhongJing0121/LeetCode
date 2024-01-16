@@ -64,6 +64,7 @@
 | 392    | 判断子序列            | 简单 | Java                  | [判断子序列](./LeetCode_392)                        |
 | 401    | 二进制手表            | 简单 | Java                  | [二进制手表](./LeetCode_401)                        |
 | 404    | 左叶子之和            | 简单 | Python                | [左叶子之和](./LeetCode_404)                        |
+| 412    | Fizz Buzz        | 简单 | Python                | [Fizz Buzz](./LeetCode_412)                    |
 | 415    | 字符串相加            | 简单 | Java                  | [字符串相加](./LeetCode_415)                        |
 | 445    | 两数相加 II          | 简单 | Go                    | [两数相加 II](./LeetCode_445)                      |
 | 447    | 回旋镖的数量           | 中等 | Java                  | [回旋镖的数量](./LeetCode_447)                       |
