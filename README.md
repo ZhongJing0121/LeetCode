@@ -67,6 +67,7 @@
 | 412    | Fizz Buzz        | 简单 | Python                | [Fizz Buzz](./LeetCode_412)                    |
 | 414    | 第三大的数            | 简单 | Java                  | [第三大的数](./LeetCode_414)                        |
 | 415    | 字符串相加            | 简单 | Java                  | [字符串相加](./LeetCode_415)                        |
+| 434    | 字符串中的单词数         | 简单 | Java                  | [字符串中的单词数](./LeetCode_434)                     |
 | 445    | 两数相加 II          | 简单 | Go                    | [两数相加 II](./LeetCode_445)                      |
 | 447    | 回旋镖的数量           | 中等 | Java                  | [回旋镖的数量](./LeetCode_447)                       |
 | 453    | 最小操作次数使数组元素相等    | 中等 | Python                | [最小操作次数使数组元素相等](./LeetCode_453)                |
