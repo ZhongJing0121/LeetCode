@@ -1,4 +1,4 @@
-package Leetcode_2679
+package LeetCode_2679
 
 import (
 	"math"

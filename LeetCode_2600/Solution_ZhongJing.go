@@ -1,4 +1,4 @@
-package Leetcode_2600
+package LeetCode_2600
 
 // 日期：2023-07-05
 // 作者：仲景
