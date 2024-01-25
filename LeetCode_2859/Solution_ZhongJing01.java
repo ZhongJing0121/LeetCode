@@ -9,10 +9,6 @@ import java.util.List;
  * @date 2024/01/25 </p>
  */
 public class Solution_ZhongJing01 {
-    public static void main(String[] args) {
-        Solution_ZhongJing01 solution = new Solution_ZhongJing01();
-        System.out.println(solution.sumIndicesWithKSetBits(List.of(5, 10, 1, 5, 2), 1));
-    }
 
     public int sumIndicesWithKSetBits(List<Integer> nums, int k) {
         int sum = 0;
