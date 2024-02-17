@@ -67,6 +67,7 @@
 | 412    | Fizz Buzz        | 简单 | Python                | [Fizz Buzz](./LeetCode_412)                    |
 | 414    | 第三大的数            | 简单 | Java                  | [第三大的数](./LeetCode_414)                        |
 | 415    | 字符串相加            | 简单 | Java                  | [字符串相加](./LeetCode_415)                        |
+| 429    | N 叉树的层序遍历        | 中等 | Java                  | [N 叉树的层序遍历](./LeetCode_429)                    |
 | 434    | 字符串中的单词数         | 简单 | Java                  | [字符串中的单词数](./LeetCode_434)                     |
 | 441    | 排列硬币             | 简单 | Java                  | [排列硬币](./LeetCode_441)                         |
 | 445    | 两数相加 II          | 简单 | Go                    | [两数相加 II](./LeetCode_445)                      |
