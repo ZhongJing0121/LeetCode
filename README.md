@@ -50,7 +50,7 @@
 | 274    | H指数              | 中等 | Python                | [H指数](./LeetCode_274 )                         |
 | 275    | H指数 II           | 中等 | Python                | [H指数 II](./LeetCode_275 )                      |
 | 290    | 单词规律             | 简单 | Java                  | [单词规律](./LeetCode_290)                         |
-| 292    | Nim 游戏           | 简单 | Java                  | [Nim 游戏](./LeetCode_292)                       |
+| 292    | Nim 游戏           | 简单 | Java、Python           | [Nim 游戏](./LeetCode_292)                       |
 | 303    | 区域和检索 - 数组不可变    | 简单 | Java                  | [区域和检索 - 数组不可变](./LeetCode_303)                |
 | 326    | 3 的幂             | 简单 | Java                  | [3 的幂](./LeetCode_326)                         |
 | 338    | 比特位计数            | 简单 | Java                  | [比特位计数](./LeetCode_338)                        |
