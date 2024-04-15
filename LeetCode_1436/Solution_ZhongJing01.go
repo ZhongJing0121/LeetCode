@@ -13,7 +13,7 @@ func destCity(paths [][]string) string {
 	// 遍历路径
 	for _, path := range paths {
 		// 如果城市不存在于起点城市中，就是答案
-		if _, ok := cityMap[path[1]]; !ok {
+		if !cityMap[path[1]] {
 			return path[1]
 		}
 	}
