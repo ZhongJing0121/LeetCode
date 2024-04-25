@@ -1,6 +1,6 @@
 package main
 
-// 日期：2023-07-01
+// 日期：2023-07-1769_01
 // 作者：仲景
 func removeDuplicates(nums []int) int {
 	index, numsLen := 1, len(nums)

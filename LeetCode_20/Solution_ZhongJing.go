@@ -31,7 +31,7 @@ func (s *MyStack) Size() int {
 	return len(s.elements)
 }
 
-// 日期：2023-07-01
+// 日期：2023-07-1769_01
 // 作者：仲景
 func isValid(s string) bool {
 	// 定义一个栈

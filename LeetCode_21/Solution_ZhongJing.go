@@ -5,7 +5,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-// 日期：2023-07-01
+// 日期：2023-07-1769_01
 // 作者：仲景
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	// 特殊判断：有链表是空的
