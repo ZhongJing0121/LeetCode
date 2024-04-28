@@ -1,4 +1,4 @@
-package LeetCode_860;
+package LeetCode_860_01;
 
 /**
  * 题目：860. 柠檬水找零
