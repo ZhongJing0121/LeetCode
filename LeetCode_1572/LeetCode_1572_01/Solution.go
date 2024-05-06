@@ -1,4 +1,4 @@
-package LeetCode_1572
+package LeetCode_1572_01
 
 // 题目：1572.矩阵对角线元素的和
 // 日期：2023-08-11
