@@ -1,4 +1,4 @@
-package LeetCode_2670;
+package LeetCode_2670_01;
 
 import java.util.HashSet;
 
