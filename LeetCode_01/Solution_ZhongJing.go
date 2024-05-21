@@ -7,7 +7,7 @@ func twoSum(nums []int, target int) []int {
 
 	for index, num := range nums {
 		success := target - num
-		if v, exists := m[success]; exists {
+		if v, exist := m[success]; exist {
 			return []int{v, index}
 		} else {
 			m[num] = index
