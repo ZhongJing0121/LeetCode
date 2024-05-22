@@ -1,4 +1,4 @@
-package LeetCode_2490
+package LeetCode_2490_01
 
 import "strings"
 
