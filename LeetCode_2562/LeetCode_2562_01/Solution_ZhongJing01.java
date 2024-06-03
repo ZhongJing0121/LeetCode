@@ -1,4 +1,4 @@
-package LeetCode_2562;
+package LeetCode_2562.LeetCode_2562_01;
 
 /**
  * 2562.找出数组的串联值
