@@ -1,9 +1,9 @@
-package LeetCode_1464;
+package LeetCode_1464.LeetCode_1464_01;
 
 /**
  * 1464.数组中两元素的最大乘积
  */
-public class Solution_ZhongJing01 {
+public class Solution {
     public int maxProduct(int[] nums) {
         int max1 = nums[0] > nums[1] ? 0 : 1, max2 = max1 == 0 ? 1 : 0;
 
