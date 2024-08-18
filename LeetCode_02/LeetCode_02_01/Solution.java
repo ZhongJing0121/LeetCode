@@ -1,10 +1,10 @@
-package LeetCode_02;
+package LeetCode_02_01;
 
 /**
  * 日期：2023-07-02
  * 作者：仲景
  */
-public class Solution_ZhongJing {
+public class Solution {
     class ListNode {
         int val;
         ListNode next;

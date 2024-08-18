@@ -1,4 +1,4 @@
-package LeetCode_09;
+package LeetCode_09.LeetCode_09_01;
 
 /**
  * 日期：2023-07-02
