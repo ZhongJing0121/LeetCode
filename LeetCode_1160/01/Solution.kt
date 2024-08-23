@@ -9,7 +9,7 @@ class Solution {
         var res = 0
         words.forEach { word ->
             val wordCharCountMap = getStrCharMap(word)
-            for (i in 0..26) {
+            for (i in 0..25) {
                 if (wordCharCountMap[i] > charsCountMap[i]) return@forEach
             }
             res += word.length
@@ -21,7 +21,7 @@ class Solution {
      * 获取字符串中每个字符出现次数,返回Map
      */
     fun getStrCharMap(s: String): IntArray {
-        val res = IntArray(27)
+        val res = IntArray(26)
         s.forEach { c ->
             res[c - 'a']++
         }
