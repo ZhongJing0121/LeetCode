@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(339)](#四已解决题目)
+- [已解决题目(341)](#四已解决题目)
 
 ## 一、简介
 
@@ -173,6 +173,7 @@
 | 1374   | 生成每种字符都是奇数个的字符串        | 简单   | Java                  | [生成每种字符都是奇数个的字符串](./LeetCode_1374)             |                                                                                                                                                             |
 | 1380   | 矩阵中的幸运数                | 简单   | Kotlin                | [矩阵中的幸运数](./LeetCode_1380)                     | [题解-仲景](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/solutions/2896576/kotlin-by-zhongjing0121-ics5/)                                             |
 | 1381   | 设计一个支持增量操作的栈           | 中等   | Go                    | [设计一个支持增量操作的栈](./LeetCode_1381)                |                                                                                                                                                             |
+| 1389   | 按既定顺序创建目标数组            | 简单   | Kotlin                | [按既定顺序创建目标数组](./LeetCode_1389)                 | [题解-仲景](https://leetcode.cn/problems/create-target-array-in-the-given-order/solutions/2896822/kotlin-by-zhongjing0121-toni/)                                |
 | 1394   | 找出数组中的幸运数              | 简单   | Java、Kotlin           | [找出数组中的幸运数](./LeetCode_1394)                   |                                                                                                                                                             |
 | 1403   | 非递增顺序的最小子序列            | 简单   | Go                    | [非递增顺序的最小子序列](./LeetCode_1403)                 |                                                                                                                                                             |
 | 1431   | 拥有最多糖果的孩子              | 简单   | Go                    | [拥有最多糖果的孩子](./LeetCode_1431)                   |                                                                                                                                                             |
