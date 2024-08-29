@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(342)](#四已解决题目)
+- [已解决题目(343)](#四已解决题目)
 
 ## 一、简介
 
@@ -221,6 +221,7 @@
 | 1779   | 找到最近的有相同 X 或 Y 坐标的点    | 简单   | Go                    | [找到最近的有相同 X 或 Y 坐标的点](./LeetCode_1779)         |                                                                                                                                                             |
 | 1784   | 检查二进制字符串字段             | 简单   | Kotlin                | [检查二进制字符串字段](./LeetCode_1784)                  | [题解-仲景](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/solutions/2891002/kotlin-by-zhongjing0121-kq08/)                |
 | 1791   | 找出星型图的中心节点             | 简单   | Go                    | [找出星型图的中心节点](./LeetCode_1791)                  |                                                                                                                                                             |
+| 1822   | 数组元素积的符号               | 简单   | Kotlin                | [数组元素积的符号](./LeetCode_1822)                    | [题解-仲景](https://leetcode.cn/problems/sign-of-the-product-of-an-array/solutions/2896897/kotlin-by-zhongjing0121-143w/)                                       |
 | 1832   | 判断句子是否为全字母句            | 简单   | Java                  | [判断句子是否为全字母句](./LeetCode_1832)                 |                                                                                                                                                             |
 | 1837   | K 进制表示下的各位数字总和         | 简单   | Go                    | [K 进制表示下的各位数字总和](./LeetCode_1837)              |                                                                                                                                                             |
 | 1869   | 哪种连续子字符串更长             | 简单   | Kotlin                | [哪种连续子字符串更长](./LeetCode_1869)                  | [题解-仲景](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/solutions/2890138/kotlin-by-zhongjing0121-efbb/)                         |
