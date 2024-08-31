@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(345)](#四已解决题目)
+- [已解决题目(346)](#四已解决题目)
 
 ## 一、简介
 
@@ -176,6 +176,7 @@
 | 1389   | 按既定顺序创建目标数组            | 简单   | Kotlin                | [按既定顺序创建目标数组](./LeetCode_1389)                 | [题解-仲景](https://leetcode.cn/problems/create-target-array-in-the-given-order/solutions/2896822/kotlin-by-zhongjing0121-toni/)                                |
 | 1394   | 找出数组中的幸运数              | 简单   | Java、Kotlin           | [找出数组中的幸运数](./LeetCode_1394)                   |                                                                                                                                                             |
 | 1403   | 非递增顺序的最小子序列            | 简单   | Go                    | [非递增顺序的最小子序列](./LeetCode_1403)                 |                                                                                                                                                             |
+| 1413   | 逐步求和得到正数的最小值           | 简单   | kotlin                | [逐步求和得到正数的最小值](./LeetCode_1413)                | [题解-仲景](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/solutions/2899086/kotlin-by-zhongjing0121-jyrc/)                        |
 | 1431   | 拥有最多糖果的孩子              | 简单   | Go                    | [拥有最多糖果的孩子](./LeetCode_1431)                   |                                                                                                                                                             |
 | 1436   | 旅行终点站                  | 简单   | Go                    | [旅行终点站](./LeetCode_1436)                       |                                                                                                                                                             |
 | 1437   | 是否所有 1 都至少相隔 k 个元素     | 简单   | Go                    | [是否所有 1 都至少相隔 k 个元素](./LeetCode_1437)          |                                                                                                                                                             |
