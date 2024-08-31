@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(343)](#四已解决题目)
+- [已解决题目(344)](#四已解决题目)
 
 ## 一、简介
 
@@ -357,6 +357,7 @@
 | 3028   | 边界上的蚂蚁                 | 简单   | Java、Kotlin           | [边界上的蚂蚁](./LeetCode_3028)                      |                                                                                                                                                             |
 | 3033   | 修改矩阵                   | 简单   | Go                    | [修改矩阵](./LeetCode_3033)                        |                                                                                                                                                             |
 | 3038   | 相同分数的最大操作数目 I          | 简单   | Kotlin                | [相同分数的最大操作数目 I](./LeetCode_3038)               | [题解-仲景](https://leetcode.cn/problems/maximum-number-of-operations-with-the-same-score-i/solutions/2884746/kotlin-by-zhongjing0121-rlha/)                    |
+| 3046   | 分割数组                   | 简单   | Kotlin                | [分割数组](./LeetCode_3046)                        | [题解-仲景](https://leetcode.cn/problems/split-the-array/solutions/2898953/kotlin-by-zhongjing0121-xf7e/)                                                       |
 | 3065   | 超过阈值的最少操作数 I           | 简单   | Java                  | [超过阈值的最少操作数 I](./LeetCode_3065)                |                                                                                                                                                             |
 | 3069   | 将元素分配到两个数组中 I          | 简单   | Kotlin                | [将元素分配到两个数组中 I](./LeetCode_3069)               | [题解-仲景](https://leetcode.cn/problems/distribute-elements-into-two-arrays-i/solutions/2889180/kotlin-by-zhongjing0121-xvza/)                                 |
 | 3074   | 重新分装苹果                 | 简单   | Go                    | [重新分装苹果](./LeetCode_3074)                      |                                                                                                                                                             |
