@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(344)](#四已解决题目)
+- [已解决题目(345)](#四已解决题目)
 
 ## 一、简介
 
@@ -372,6 +372,7 @@
 | 3135   | 特殊数组 I                 | 简单   | Kotlin                | [特殊数组 I](./LeetCode_3151)                      |
 | 3136   | 有效单词                   | 简单   | Go                    | [有效单词](./LeetCode_3136)                        |                                                                                                                                                             |
 | 3142   | 判断矩阵是否满足条件             | 简单   | kt                    | [判断矩阵是否满足条件](./LeetCode_3142)                  | [题解-仲景](https://leetcode.cn/problems/check-if-grid-satisfies-conditions/solutions/2896491/kotlin-by-zhongjing0121-kb1n/)                                    |
+| 3168   | 候诊室中的最少椅子数             | 简单   | Kotlin                | [候诊室中的最少椅子数](./LeetCode_3168)                  | [题解-仲景](https://leetcode.cn/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/2898963/kotlin-by-zhongjing0121-h9ek/)                            |
 | 100274 | 从魔法师身上吸取的最大能量          | 中等   | Go                    | [从魔法师身上吸取的最大能量](./LeetCode_100274)             |                                                                                                                                                             |
 | 100285 | 100285.找出与数组相加的整数 I    | 简单   | Go                    | [找出与数组相加的整数 I](./LeetCode_100285)              |                                                                                                                                                             |
 | 100287 | 找出与数组相加的整数 II          | 中等   | Go                    | [找出与数组相加的整数 II](./LeetCode_100287)             |                                                                                                                                                             |
