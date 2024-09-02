@@ -6,7 +6,7 @@
 - [提交要求](#二提交要求)
 - [当前目标](#三当前目标)
 - [当前进度](#四当前进度)
-- [已解决题目(356)](#四已解决题目)
+- [已解决题目](#四已解决题目)
 
 ## 一、简介
 
@@ -59,6 +59,7 @@
 | 104    | 二叉树的最大深度               | 简单   | Go                    | [二叉树的最大深度](./LeetCode_104)                     |                                                                                                                                                             |
 | 110    | 平衡二叉树                  | 简单   | Go                    | [平衡二叉树](./LeetCode_110)                        |                                                                                                                                                             |
 | 124    | 二叉树中的最大路径和             | 困难   | Go                    | [二叉树中的最大路径和](./LeetCode_124)                   |                                                                                                                                                             |
+| 136    | 只出现一次的数字               | 简单   | Java                  | [只出现一次的数字](./LeetCode_136)                     |
 | 167    | 两数之和 II - 输入有序数组       | 中等   | Go                    | [两数之和 II - 输入有序数组](./LeetCode_167 )            |                                                                                                                                                             |
 | 191    | 位1的个数                  | 简单   | python                | [位1的个数](./LeetCode_191          )              |                                                                                                                                                             |
 | 222    | 完全二叉树的节点个数             | 简单   | python                | [完全二叉树的节点个数](./LeetCode_222         )          |                                                                                                                                                             |
@@ -129,13 +130,13 @@
 | 908    | 最小差值 I                 | 简单   | Java                  | [最小差值 I](./LeetCode_908)                       |                                                                                                                                                             |
 | 922    | 按奇偶排序数组 II             | 简单   | Go                    | [按奇偶排序数组 II](./LeetCode_922)                   |                                                                                                                                                             |
 | 925    | 长按键入                   | 简单   | Go                    | [长按键入](./LeetCode_925)                         | [题解-ZhongJing](https://leetcode.cn/problems/long-pressed-name/solutions/2771539/gojian-dan-mo-ni-by-zhongjing0121-0jnj/)                                    |
+| 929    | 独特的电子邮件地址              | 简单   | Go                    | [独特的电子邮件地址](./LeetCode_929)                    |
 | 931    | 下降路径最小和                | 中等   | Go                    | [下降路径最小和](./LeetCode_931)                      |                                                                                                                                                             |
-| 929    | 独特的电子邮件地址              | 简单   | Go                    | [独特的电子邮件地址](./LeetCode_929)                    |                                                                                                                                                             |
 | 941    | 有效的山脉数组                | 简单   | Kotlin                | [有效的山脉数组](./LeetCode_941)                      | [题解-仲景](https://leetcode.cn/problems/valid-mountain-array/solutions/2896809/kotlin-by-zhongjing0121-t3v9/)                                                  |
 | 953    | 验证外星语词典                | 简单   | Java                  | [验证外星语词典](./LeetCode_953)                      |                                                                                                                                                             |
 | 956    | 单值二叉树                  | 简单   | Go                    | [单值二叉树](./LeetCode_956)                        |                                                                                                                                                             |
 | 961    | 在长度 2N 的数组中找出重复 N 次的元素 | 简单   | Java                  | [在长度 2N 的数组中找出重复 N 次的元素](./LeetCode_961)       |                                                                                                                                                             |
-| 974    | 最接近原点的 K 个点            | 中等   | Kotlin                | [最接近原点的 K 个点](./LeetCode_974)                  | [题解-仲景](https://leetcode.cn/problems/k-closest-points-to-origin/solutions/2902360/kotlin-by-zhongjing0121-zoeh/)                                            |
+| 973    | 最接近原点的 K 个点            | 中等   | Kotlin                | [最接近原点的 K 个点](./LeetCode_973)                  | [题解-仲景](https://leetcode.cn/problems/k-closest-points-to-origin/solutions/2902360/kotlin-by-zhongjing0121-zoeh/)                                            |
 | 977    | 有序数组的平方                | 简单   | Python、Kotlin         | [有序数组的平方](./LeetCode_977)                      |                                                                                                                                                             |
 | 979    | 在二叉树中分配硬币              | 中等   | Go                    | [在二叉树中分配硬币](./LeetCode_979)                    |                                                                                                                                                             |
 | 985    | 查询后的偶数和                | 中等   | Go                    | [查询后的偶数和](./LeetCode_985)                      |                                                                                                                                                             |
@@ -168,8 +169,8 @@
 | 1305   | 两棵二叉搜索树中的所有元素          | 简单   | Go                    | [两棵二叉搜索树中的所有元素](./LeetCode_1305)               |                                                                                                                                                             |
 | 1317   | 将整数转换为两个无零整数的和         | 简单   | Go                    | [将整数转换为两个无零整数的和](./LeetCode_1317)              |                                                                                                                                                             |
 | 1323   | 6 和 9 组成的最大数字          | 简单   | Go                    | [6 和 9 组成的最大数字](./LeetCode_1323)               |                                                                                                                                                             |
-| 1351   | 统计有序矩阵中的负数             | 简单   | Java                  | [统计有序矩阵中的负数](./LeetCode_1351)                  |                                                                                                                                                             |
 | 1342   | 将数字变成 0 的操作次数          | 简单   | Java                  | [将数字变成 0 的操作次数](./LeetCode_1342)               |                                                                                                                                                             |
+| 1351   | 统计有序矩阵中的负数             | 简单   | Java                  | [统计有序矩阵中的负数](./LeetCode_1351)                  |                                                                                                                                                             |
 | 1365   | 有多少小于当前数字的数字           | 简单   | Java                  | [有多少小于当前数字的数字](./LeetCode_1365)                |                                                                                                                                                             |
 | 1374   | 生成每种字符都是奇数个的字符串        | 简单   | Java                  | [生成每种字符都是奇数个的字符串](./LeetCode_1374)             |                                                                                                                                                             |
 | 1380   | 矩阵中的幸运数                | 简单   | Kotlin                | [矩阵中的幸运数](./LeetCode_1380)                     | [题解-仲景](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/solutions/2896576/kotlin-by-zhongjing0121-ics5/)                                             |
