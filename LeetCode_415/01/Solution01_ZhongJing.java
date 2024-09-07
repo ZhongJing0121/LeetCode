@@ -37,11 +37,4 @@ public class Solution01_ZhongJing {
 
         return sb.reverse().toString();
     }
-
-    public static void main(String[] args) {
-        var num1 = "456";
-        var num2 = "77";
-
-        System.out.println(new Solution01_ZhongJing().addStrings(num1, num2));
-    }
 }
