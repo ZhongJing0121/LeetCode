@@ -1,4 +1,4 @@
-package LeetCode_2859;
+package LeetCode_2859.02;
 
 import java.util.List;
 
