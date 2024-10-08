@@ -18,7 +18,7 @@
 ## 二、提交要求
 
 1. 创建题目文件夹（如果存在就不需要了），格式：LeetCode_题号 例如：LeetCode_01
-2. 创建题解文件夹，格式：题号_序号 例如：Solution_01_01
+2. 创建题解文件夹，格式：题号/序号 例如：Solution_01/01
 3. 创建题解，文件名：Solution
 4. 如果希望署名，可以在Solution题解的注释中给自己署名
 5. 题解编写完成后，更新到Readme.md中，如果有三方的题解，可以在题解一列中链接
@@ -404,6 +404,7 @@
 | 3136   | 有效单词                   | 简单   | Go                    | [有效单词](./LeetCode_3136)                        |                                                                                                                                                             |
 | 3142   | 判断矩阵是否满足条件             | 简单   | kt                    | [判断矩阵是否满足条件](./LeetCode_3142)                  | [题解-仲景](https://leetcode.cn/problems/check-if-grid-satisfies-conditions/solutions/2896491/kotlin-by-zhongjing0121-kb1n/)                                    |
 | 3168   | 候诊室中的最少椅子数             | 简单   | Kotlin                | [候诊室中的最少椅子数](./LeetCode_3168)                  | [题解-仲景](https://leetcode.cn/problems/minimum-number-of-chairs-in-a-waiting-room/solutions/2898963/kotlin-by-zhongjing0121-h9ek/)                            |
+| 3206   | 交替组 I                  | 简单   | Python                | [交替组 I](./LeetCode_3206)                       | [题解-仲景](https://leetcode.cn/problems/alternating-groups-i/solutions/2942696/python3-by-zhongjing0121-lihc/)                                                 |
 | 100274 | 从魔法师身上吸取的最大能量          | 中等   | Go                    | [从魔法师身上吸取的最大能量](./LeetCode_100274)             |                                                                                                                                                             |
 | 100285 | 100285.找出与数组相加的整数 I    | 简单   | Go                    | [找出与数组相加的整数 I](./LeetCode_100285)              |                                                                                                                                                             |
 | 100287 | 找出与数组相加的整数 II          | 中等   | Go                    | [找出与数组相加的整数 II](./LeetCode_100287)             |                                                                                                                                                             |
