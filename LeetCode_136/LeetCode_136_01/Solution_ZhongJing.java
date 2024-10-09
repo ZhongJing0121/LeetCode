@@ -1,5 +1,4 @@
-package LeetCode_136.01;
-
+package LeetCode_136.LeetCode_136_01;
 /**
  * 136. 只出现一次的数字
  *
