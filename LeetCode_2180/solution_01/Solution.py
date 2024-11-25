@@ -10,7 +10,7 @@ class Solution:
         res = 0
         for i in range(1, num + 1):
             curNumBitSum = self.numBitSum(i)
-            res += 1 if curNumBitSum % 2 == 0 else 0
+            res += curNumBitSum % 2 == 0
         return res
 
     def numBitSum(self, num: int) -> int:
