@@ -30,7 +30,7 @@
 
 > 简单题的进度已经过半了，加油！
 > ———— 仲景 by 2024年10月22日
- 
+
 > 休息了一年多，又开始刷题了！
 > ———— 仲景 by 2024年07月18日
 
@@ -203,7 +203,7 @@
 | 1337   | 矩阵中战斗力最弱的 K 行          | 简单   | Python、Kotlin         | [矩阵中战斗力最弱的 K 行](./leetcode_1337)               | [题解-仲景](https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/solutions/2943695/kotlin-by-zhongjing0121-qzva/)                                            |
 | 1342   | 将数字变成 0 的操作次数          | 简单   | Java                  | [将数字变成 0 的操作次数](./LeetCode_1342)               |                                                                                                                                                                 |
 | 1346   | 检查整数及其两倍数是否存在          | 简单   | Python                | [检查整数及其两倍数是否存在](./LeetCode_1346)               | [题解-仲景](https://leetcode.cn/problems/check-if-n-and-its-double-exist/solutions/2945429/python-by-zhongjing0121-owdc/)                                           |
-| 1351   | 统计有序矩阵中的负数             | 简单   | Java                  | [统计有序矩阵中的负数](./LeetCode_1351)                  |                                                                                                                                                                 |
+| 1351   | 统计有序矩阵中的负数             | 简单   | Java、Python           | [统计有序矩阵中的负数](./LeetCode_1351)                  | [题解-仲景](https://leetcode.cn/problems/count-negative-numbers-in-a-sorted-matrix/solutions/3729477/ren-sheng-ku-duan-wo-yong-python-by-zhon-jowa/)                |
 | 1365   | 有多少小于当前数字的数字           | 简单   | Java                  | [有多少小于当前数字的数字](./LeetCode_1365)                |                                                                                                                                                                 |
 | 1374   | 生成每种字符都是奇数个的字符串        | 简单   | Java                  | [生成每种字符都是奇数个的字符串](./LeetCode_1374)             |                                                                                                                                                                 |
 | 1380   | 矩阵中的幸运数                | 简单   | Kotlin                | [矩阵中的幸运数](./LeetCode_1380)                     | [题解-仲景](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/solutions/2896576/kotlin-by-zhongjing0121-ics5/)                                                 |
